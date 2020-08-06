@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.2.0](https://github.com/frontend-collective/react-image-lightbox/compare/v5.1.1...v5.2.0) (2020-08-06)
+
+
+### Features
+
+* z-index value was updated because reactModalStyle did not work ([ff6af74](https://github.com/frontend-collective/react-image-lightbox/commit/ff6af74ab7cd97763385b44789fb6f40cc65c2c9))
+
 ### [5.1.1](https://github.com/frontend-collective/react-image-lightbox/compare/v5.1.0...v5.1.1) (2019-11-12)
 
 
